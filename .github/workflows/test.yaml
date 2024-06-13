@@ -1,5 +1,5 @@
 name: github-actions-labs
-runs-name: Running Test
+run-name: Running Test
 on:
   push:
     branches:
