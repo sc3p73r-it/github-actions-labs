@@ -2,7 +2,7 @@ name: github-actions-labs
 on:
   push:
     branches:
-       - "**"
+      - "**"
       - "!main"
 jobs:
   test:
