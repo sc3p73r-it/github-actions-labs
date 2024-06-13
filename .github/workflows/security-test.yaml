@@ -1,4 +1,5 @@
 name: Image Security Test
+runs-name: Security Test
 on:
   push:
     branches:
